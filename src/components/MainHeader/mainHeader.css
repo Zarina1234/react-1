@@ -1,0 +1,32 @@
+
+.container{
+    width: 1100px;
+    height: 1100px;
+}
+.menu{
+    display: flex;
+    justify-content: space-between;
+    list-style-type: none;
+    column-gap: 10px;
+}
+.logo{
+    width: 192px;
+    height: 192px;
+}
+
+.photo{
+    width: 192px;
+    height: 192px;
+}
+
+.pictures{
+    width: 192px;
+    height: 192px;
+    border-radius: 10px
+} 
+
+.flower{
+    width: 192px;
+    height: 192px;
+    border-radius: 10px
+}
